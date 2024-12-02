@@ -1,0 +1,59 @@
+# Unity generated directories and files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Package management
+Packages/manifest.json
+Packages/manifest.json.meta
+
+# Crash logs and debug files
+sysinfo.txt
+*.stacktrace
+*.log
+
+# Compiled files
+*.pidb
+*.pdb
+*.dll
+*.exe
+
+# Build outputs
+*.apk
+*.aab
+*.unitypackage
+
+# IDE-specific files
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.userprefs
+*.suo
+*.user
+
+# Metadata and Unity-specific
+*.meta
+*.backup
+
+# Asset store packages (if not wanted)
+Assets/AssetStoreTools*
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*~
+
+# Performance monitoring
+/Logs/
+/ProfilerLogs/
+
+# Visual Studio cache/options directory
+.vs/
